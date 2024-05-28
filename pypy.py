@@ -1,2 +1,2 @@
-def numbers():
-    return 12
+def toreturn():
+    return("10")
