@@ -1,3 +1,3 @@
 # images
  
-Test for the project `pypy`
+Test repository `pypy`
